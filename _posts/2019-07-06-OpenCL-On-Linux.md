@@ -9,8 +9,7 @@ tags: [OpenCL, Linux, ICD Loader, Debugging]
 # OpenCL on Linux
 
 This is a slightly edited version of an article I wrote a few months ago.
-The original can be found here:
-http://github.com/bashbaug/OpenCLPapers/OpenCLOnLinux.asciidoc
+The original can be found [here](http://github.com/bashbaug/OpenCLPapers/OpenCLOnLinux.asciidoc).
 
 It probably should have been a blog post from the beginning though, and now it is!
 
