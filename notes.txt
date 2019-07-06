@@ -1,0 +1,7 @@
+# Testing
+
+Test how things will look using:
+
+```sh
+bundle exec jekyll serve
+```
