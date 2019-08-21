@@ -5,3 +5,11 @@ Test how things will look using:
 ```sh
 bundle exec jekyll serve
 ```
+
+# Updating
+
+Update with:
+
+```sh
+bundle update github-pages
+```
